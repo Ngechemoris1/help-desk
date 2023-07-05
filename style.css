@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+.question h2 {
+  font-size: 1.5em;
+}
+
+.question p {
+  margin-bottom: 10px;
+}
+
+.answer {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
