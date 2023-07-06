@@ -256,9 +256,9 @@ error_reporting(0);
       <div class=" footer-menu">
 
 
-        <a href="https://twitter.com/Wenslause5"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
-        <a href="https://www.linkedin.com/in/wenslause-busale/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-        <a href="mailto:Wenbusale383@gmail.com"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a>
+        <a href="https://twitter.com/moris_ngeche"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a href="https://www.linkedin.com/in/moris-ngeche/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+        <a href="mailto:ngechemoris001@gmail.com"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a>
 
       </div>
       <p> &copy; 2023 Computer Technical Support</p>

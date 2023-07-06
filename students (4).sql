@@ -59,7 +59,7 @@ CREATE TABLE `tblcontactusinfo` (
 --
 
 INSERT INTO `tblcontactusinfo` (`id`, `Address`, `EmailId`, `ContactNo`) VALUES
-(1, '00100 Northern Bypass Road, Intersection, Kenya', 'wenbusale383@gmail.com', '0769525570');
+(1, 'ruaka, Kenya', 'ngechemoris001@gmail.com', '0714293476');
 
 -- --------------------------------------------------------
 
@@ -83,10 +83,10 @@ CREATE TABLE `tblcontactusquery` (
 --
 
 INSERT INTO `tblcontactusquery` (`id`, `name`, `EmailId`, `ContactNumber`, `Message`, `dateposted`, `timeposted`, `status`) VALUES
-(1, 'winslause Busale ', 'wenbusale383@gmail.com', '0769525570', 'hello', '2023-07-02', '14:29:32', 1),
-(2, 'Winslause SHIOSO', 'wenbusale383@gmail.com', '769525570', 'hello', '2023-07-02', '14:40:02', 0),
-(3, 'Winslause SHIOSO', 'wenbusale383@gmail.com', '769525570', 'i want to complain about something', '2023-07-02', '14:58:08', 0),
-(4, 'Winslause SHIOSO', 'wenbusale383@gmail.com', '769525570', 'i want to complain about something', '2023-07-02', '14:58:08', 0);
+(1, 'moris ngeche ', 'ngechemoris001@gmail.com', '0714293476', 'hello', '2023-07-02', '14:29:32', 1),
+(2, 'moris ngeche', 'ngechemoris001@gmail.com', '0714293476', 'hello', '2023-07-02', '14:40:02', 0),
+(3, 'moris ngeche', 'ngechemoris001@gmail.com', '0714293476', 'i want to complain about something', '2023-07-02', '14:58:08', 0),
+(4, 'moris ngeche', 'ngechemoris001@gmail.com', '0714293476', 'i want to complain about something', '2023-07-02', '14:58:08', 0);
 
 -- --------------------------------------------------------
 
@@ -196,7 +196,7 @@ CREATE TABLE `tblstaff` (
 --
 
 INSERT INTO `tblstaff` (`id`, `fullname`, `numberid`, `email`, `password`, `department`, `jobtitle`, `phone`, `gender`, `profilep`) VALUES
-(1, 'Winslause SHIOSO', 8273653, 'kevin@gmail.com', 'f534840f6d9ad80ddf580bdaa5eccbf9', 'Computer', 'fundi', 0, 'MALE', '');
+(1, 'moris ngeche', 8273653, 'ngechemoris001@gmail.com', 'f534840f6d9ad80ddf580bdaa5eccbf9', 'Computer', 'fundi', 0, 'MALE', '');
 
 -- --------------------------------------------------------
 
@@ -223,7 +223,7 @@ CREATE TABLE `tblstudents` (
 --
 
 INSERT INTO `tblstudents` (`id`, `fname`, `anumber`, `email`, `password`, `department`, `course`, `gender`, `idnumber`, `phone`, `profilep`) VALUES
-(11, 'Winslause SHIOSO', 'PA106/G/7920/19', 'wenbusale383@gmail.com', '105a700ed697d6d352fc2e22e0e60b4d', 'Information Technology', 'Computer Studies', 'MALE', 8273653, 769525570, ''),
+(11, 'moris ngeche', 'PA106/G/7920/19', 'ngechemoris001@gmail.com', '105a700ed697d6d352fc2e22e0e60b4d', 'Information Technology', 'Computer Studies', 'MALE', 8273653, 769525570, ''),
 (12, 'omosh junior', 'PA106/G/7920/19', 'omondi@gmail.com', '7840c49cc76b94a7b89d018d91597820', 'Pure and Applied Science', 'Computer', 'MALE', 8273653, 769525570, '');
 
 -- --------------------------------------------------------
@@ -243,7 +243,7 @@ CREATE TABLE `tblsubscribers` (
 --
 
 INSERT INTO `tblsubscribers` (`id`, `emailn`, `pdate`) VALUES
-(5, 'wenbusale383@gmail.com', '2023-07-02'),
+(5, 'ngechemoris001@gmail.com', '2023-07-02'),
 (7, 'wenbusale383@gmail.com', '2023-07-02'),
 (8, 'wenbusale383@gmail.com', '2023-07-02');
 
@@ -269,7 +269,7 @@ CREATE TABLE `tbltestimonial` (
 --
 
 INSERT INTO `tbltestimonial` (`id`, `fullname`, `UserEmail`, `phone`, `datereported`, `timereported`, `Testimonial`, `status`) VALUES
-(3, 'Winslause SHIOSO', 'wenbusale383@gmail.com', '769525570', '2023-07-02', '17:13:30', 'test again', 0),
+(3, 'moris ngeche', 'ngechemoris001@gmail.com', '769525570', '2023-07-02', '17:13:30', 'test again', 0),
 (4, 'Winslause SHIOSO', 'wenbusale383@gmail.com', '769525570', '2023-07-02', '17:15:11', 'another', 0);
 
 --

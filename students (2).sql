@@ -90,10 +90,10 @@ CREATE TABLE `tblservice` (
 --
 
 INSERT INTO `tblservice` (`id`, `datereported`, `timereported`, `problem`, `datechecked`, `timechecked`, `status`, `comments`, `pic`, `problempicture`, `email`) VALUES
-(6, '2023-06-17', '12:05', 'Hello, my pc broke its screen. i need help', '2023-06-18', '2023-06-18', 1, 'Your pc is now okay', '', '', 'wenbusale383@gmail.com'),
-(7, '2023-06-17', '12:05', 'Can you help me set up my desktop', '2023-06-18', '2023-06-18', 1, 'hello', '', '', 'wenbusale383@gmail.com'),
-(8, '2023-06-18', '18:31', 'i have another problem', '', '', 0, '', '', '', 'wenbusale383@gmail.com'),
-(9, '2023-06-18', '18:31', 'i have another problem', '', '', 0, '', '', '', 'wenbusale383@gmail.com');
+(6, '2023-06-17', '12:05', 'Hello, my pc broke its screen. i need help', '2023-06-18', '2023-06-18', 1, 'Your pc is now okay', '', '', 'mourinhoenterprises@gmail.com'),
+(7, '2023-06-17', '12:05', 'Can you help me set up my desktop', '2023-06-18', '2023-06-18', 1, 'hello', '', '', 'mourinhoenterprises@gmail.com'),
+(8, '2023-06-18', '18:31', 'i have another problem', '', '', 0, '', '', '', 'mourinhoenterprises@gmail.com'),
+(9, '2023-06-18', '18:31', 'i have another problem', '', '', 0, '', '', '', 'mourinhoenterprises@gmail.com');
 
 -- --------------------------------------------------------
 
@@ -146,7 +146,7 @@ CREATE TABLE `tblstudents` (
 --
 
 INSERT INTO `tblstudents` (`id`, `fname`, `anumber`, `email`, `password`, `department`, `course`, `gender`, `idnumber`, `phone`, `profilep`) VALUES
-(11, 'Winslause Shioso', 'PA106/G/7920/19', 'wenbusale383@gmail.com', '105a700ed697d6d352fc2e22e0e60b4d', 'Pure and Applied Science', '', '', 0, 0, '');
+(11, 'NGECHE MORIS', 'PA106/G/7920/19', 'ngechemoris001@gmail.com', '105a700ed697d6d352fc2e22e0e60b4d', 'Pure and Applied Science', '', '', 0, 0, '');
 
 --
 -- Indexes for dumped tables
